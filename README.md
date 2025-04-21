@@ -2,9 +2,6 @@
 
 Bem-vindo ao repositório do **Top-Down Pixel RPG**, um jogo 2D desenvolvido em Python com Pygame para a disciplina de Computação Gráfica (2025). Este projeto implementa conceitos gráficos como texturas, animações, iluminação e transformações geométricas em um RPG inspirado em clássicos como Pokémon.
 
-\
-*Observação: Substitua o link acima por uma captura de tela real do jogo.*
-
 ---
 
 ## Descrição do Projeto
